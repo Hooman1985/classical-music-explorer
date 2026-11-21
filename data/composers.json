@@ -1,0 +1,508 @@
+[
+  {
+    "id": "bach",
+    "name": "Johann Sebastian Bach",
+    "years": "1685–1750",
+    "period": "Baroque",
+    "country": "Germany",
+    "bio": "یوهان سباستیان باخ از برجسته‌ترین آهنگ‌سازان دوره باروک بود. موسیقی او با چندصدایی دقیق، ساختار منسجم و پیوند عمیق میان بیان عاطفی و معماری موسیقایی شناخته می‌شود.",
+    "style": "کنترپوان پیچیده، فوگ، فرم‌های رقصی و مذهبی، و سازمان‌دهی دقیق خطوط ملودیک.",
+    "works": [
+      "The Well-Tempered Clavier",
+      "Brandenburg Concertos",
+      "Cello Suites",
+      "Mass in B Minor",
+      "Goldberg Variations"
+    ],
+    "fact": "باخ در زمان خود بیش از آنکه به‌عنوان آهنگ‌ساز شناخته شود، به‌عنوان نوازنده ارگ و بداهه‌پرداز برجسته شهرت داشت."
+  },
+  {
+    "id": "vivaldi",
+    "name": "Antonio Vivaldi",
+    "years": "1678–1741",
+    "period": "Baroque",
+    "country": "Italy",
+    "bio": "آنتونیو ویوالدی آهنگ‌ساز و ویولن‌نواز ایتالیایی بود که نقش مهمی در گسترش کنسرتو داشت.",
+    "style": "انرژی ریتمیک، تضاد میان گروه سازها و تک‌نواز، و ملودی‌های روشن و پرتحرک.",
+    "works": [
+      "The Four Seasons",
+      "L'estro armonico",
+      "Gloria in D major",
+      "Mandolin Concerto in C major"
+    ],
+    "fact": "ویوالدی به دلیل رنگ موی سرخ خود با لقب «کشیش سرخ‌مو» شناخته می‌شد."
+  },
+  {
+    "id": "handel",
+    "name": "George Frideric Handel",
+    "years": "1685–1759",
+    "period": "Baroque",
+    "country": "Germany / England",
+    "bio": "هندل آهنگ‌سازی آلمانی‌تبار بود که بخش مهمی از زندگی حرفه‌ای خود را در لندن گذراند و در اپرا و اوراتوریو شهرت یافت.",
+    "style": "ملودی‌های پرقدرت، بیان نمایشی و ساختارهای باشکوه آوازی.",
+    "works": [
+      "Messiah",
+      "Water Music",
+      "Music for the Royal Fireworks",
+      "Giulio Cesare"
+    ],
+    "fact": "اوراتوریوی Messiah در زمان حیات هندل بارها اجرا شد و به یکی از آثار ماندگار موسیقی آوازی تبدیل شد."
+  },
+  {
+    "id": "corelli",
+    "name": "Arcangelo Corelli",
+    "years": "1653–1713",
+    "period": "Baroque",
+    "country": "Italy",
+    "bio": "کورلی ویولن‌نواز و آهنگ‌ساز ایتالیایی بود و در تثبیت فرم سوناتا و کنسرتو گروسو تأثیر گذاشت.",
+    "style": "تعادل، شفافیت بافت و جمله‌بندی منظم برای سازهای زهی.",
+    "works": [
+      "Concerti Grossi, Op. 6",
+      "Violin Sonatas, Op. 5",
+      "Trio Sonatas, Op. 3"
+    ],
+    "fact": "آثار کورلی در شکل‌گیری سنت ویولن‌نوازی اروپا نفوذ گسترده‌ای داشتند."
+  },
+  {
+    "id": "purcell",
+    "name": "Henry Purcell",
+    "years": "1659–1695",
+    "period": "Baroque",
+    "country": "England",
+    "bio": "پرْسِل از مهم‌ترین آهنگ‌سازان انگلیسی باروک بود و در موسیقی نمایشی، آوازی و آثار مجلسی مهارت داشت.",
+    "style": "ترکیب سنت انگلیسی با عناصر ایتالیایی و فرانسوی، و بیان دراماتیک فشرده.",
+    "works": [
+      "Dido and Aeneas",
+      "Music for the Funeral of Queen Mary",
+      "The Fairy-Queen",
+      "Abdelazer Suite"
+    ],
+    "fact": "اپرای Dido and Aeneas از مهم‌ترین اپراهای اولیه انگلیسی به‌شمار می‌آید."
+  },
+  {
+    "id": "haydn",
+    "name": "Joseph Haydn",
+    "years": "1732–1809",
+    "period": "Classical",
+    "country": "Austria",
+    "bio": "هایدن از چهره‌های محوری شکل‌گیری سمفونی و کوارتت زهی کلاسیک بود و در گسترش این فرم‌ها نقش تعیین‌کننده‌ای داشت.",
+    "style": "ساختار روشن، شوخ‌طبعی موسیقایی، بسط تماتیک و گفت‌وگوی سازها.",
+    "works": [
+      "Symphony No. 94 'Surprise'",
+      "The Creation",
+      "Emperor Quartet",
+      "String Quartets, Op. 76"
+    ],
+    "fact": "هایدن سال‌های طولانی در خدمت خاندان استرهازی بود و در همان محیط بسیاری از آثارش را نوشت."
+  },
+  {
+    "id": "mozart",
+    "name": "Wolfgang Amadeus Mozart",
+    "years": "1756–1791",
+    "period": "Classical",
+    "country": "Austria",
+    "bio": "موتسارت آهنگ‌سازی نابغه و بسیار پرکار بود که در سمفونی، کنسرتو، اپرا و موسیقی مجلسی آثاری ماندگار پدید آورد.",
+    "style": "شفافیت ملودیک، تعادل فرمی، شخصیت‌پردازی موسیقایی و انعطاف بیانی.",
+    "works": [
+      "The Magic Flute",
+      "Symphony No. 40",
+      "Piano Concerto No. 21",
+      "Requiem",
+      "Don Giovanni"
+    ],
+    "fact": "موتسارت در کودکی همراه خواهرش نانرل در اروپا سفر می‌کرد و برای دربارها اجرا داشت."
+  },
+  {
+    "id": "beethoven",
+    "name": "Ludwig van Beethoven",
+    "years": "1770–1827",
+    "period": "Classical / Romantic",
+    "country": "Germany",
+    "bio": "بتهوون پلی مهم میان دوره کلاسیک و رمانتیک است. آثار او دامنه بیان سمفونی، سونات و موسیقی مجلسی را گسترش دادند.",
+    "style": "گسترش دراماتیک فرم، تضادهای شدید، تحول تماتیک و بیان فردی نیرومند.",
+    "works": [
+      "Symphony No. 5",
+      "Symphony No. 9",
+      "Moonlight Sonata",
+      "Piano Sonata No. 8 'Pathétique'",
+      "String Quartet No. 14"
+    ],
+    "fact": "بتهوون در بخش بزرگی از دوران فعالیت حرفه‌ای خود با کاهش شدید شنوایی روبه‌رو بود."
+  },
+  {
+    "id": "gluck",
+    "name": "Christoph Willibald Gluck",
+    "years": "1714–1787",
+    "period": "Classical",
+    "country": "Bohemia / Austria",
+    "bio": "گلوک آهنگ‌سازی اپرا بود که برای سادگی دراماتیک و پیوند نزدیک‌تر موسیقی با نمایش تلاش کرد.",
+    "style": "درام روشن، پرهیز از تزئینات بی‌دلیل و توجه به روایت صحنه‌ای.",
+    "works": [
+      "Orfeo ed Euridice",
+      "Alceste",
+      "Iphigénie en Tauride"
+    ],
+    "fact": "اصلاحات اپرایی گلوک بر نسل‌های بعدی آهنگ‌سازان اپرا اثر گذاشت."
+  },
+  {
+    "id": "chopin",
+    "name": "Frédéric Chopin",
+    "years": "1810–1849",
+    "period": "Romantic",
+    "country": "Poland / France",
+    "bio": "شوپن آهنگ‌ساز و پیانیست لهستانی بود که تقریباً تمام آثار مهم خود را برای پیانو نوشت و زبان این ساز را دگرگون کرد.",
+    "style": "ظرافت ملودیک، هارمونی رنگارنگ، روباتو و الهام از موسیقی رقص لهستانی.",
+    "works": [
+      "Nocturnes",
+      "Études, Op. 10 and Op. 25",
+      "Ballades",
+      "Polonaises",
+      "Preludes, Op. 28"
+    ],
+    "fact": "شوپن در پاریس زندگی می‌کرد، اما پیوند فرهنگی و موسیقایی خود با لهستان را حفظ کرد."
+  },
+  {
+    "id": "liszt",
+    "name": "Franz Liszt",
+    "years": "1811–1886",
+    "period": "Romantic",
+    "country": "Hungary",
+    "bio": "لیست پیانیست و آهنگ‌ساز مجاری بود که به‌عنوان یکی از بزرگ‌ترین نوازندگان virtuoso قرن نوزدهم شناخته می‌شود.",
+    "style": "تکنیک نمایشی پیانو، دگرگونی تماتیک، فرم‌های نو و ارکستراسیون رنگین.",
+    "works": [
+      "Hungarian Rhapsodies",
+      "Piano Sonata in B minor",
+      "Liebesträume",
+      "Transcendental Études"
+    ],
+    "fact": "لیست در اجراهای عمومی خود شور و هیجانی کم‌سابقه ایجاد می‌کرد؛ اصطلاح Lisztomania به همین پدیده اشاره دارد."
+  },
+  {
+    "id": "schumann",
+    "name": "Robert Schumann",
+    "years": "1810–1856",
+    "period": "Romantic",
+    "country": "Germany",
+    "bio": "شومان آهنگ‌ساز و منتقد موسیقی آلمانی بود که در موسیقی پیانو، لید و سمفونی آثار مهمی نوشت.",
+    "style": "بیان شاعرانه، شخصیت‌های موسیقایی متضاد و پیوند ادبیات با موسیقی.",
+    "works": [
+      "Kinderszenen",
+      "Carnaval",
+      "Dichterliebe",
+      "Symphony No. 3 'Rhenish'"
+    ],
+    "fact": "شومان از منتقدان و نویسندگان اثرگذار موسیقی نیز بود و مجله Neue Zeitschrift für Musik را بنیان گذاشت."
+  },
+  {
+    "id": "brahms",
+    "name": "Johannes Brahms",
+    "years": "1833–1897",
+    "period": "Romantic",
+    "country": "Germany",
+    "bio": "برامس با تکیه بر سنت کلاسیک، زبان رمانتیک پرعمقی ساخت و در سمفونی، موسیقی مجلسی و آثار پیانو برجسته بود.",
+    "style": "ساختار محکم، بسط انگیزه‌ای، ریتم‌های پیچیده و غنای هارمونیک.",
+    "works": [
+      "Symphony No. 1",
+      "A German Requiem",
+      "Hungarian Dances",
+      "Intermezzi, Op. 117",
+      "Violin Concerto"
+    ],
+    "fact": "برامس نسبت به انتشار آثارش بسیار سخت‌گیر بود و بسیاری از طرح‌های اولیه را کنار گذاشت."
+  },
+  {
+    "id": "tchaikovsky",
+    "name": "Pyotr Ilyich Tchaikovsky",
+    "years": "1840–1893",
+    "period": "Romantic",
+    "country": "Russia",
+    "bio": "چایکوفسکی آهنگ‌ساز روسی بود که آثار ارکسترال، باله و اپرای او به دلیل قدرت ملودیک و بیان عاطفی شهرت جهانی دارند.",
+    "style": "ملودی‌های گسترده، ارکستراسیون رنگارنگ و تنش عاطفی پرقدرت.",
+    "works": [
+      "Swan Lake",
+      "The Nutcracker",
+      "Symphony No. 6 'Pathétique'",
+      "Violin Concerto",
+      "1812 Overture"
+    ],
+    "fact": "سه باله مشهور او، Swan Lake، The Sleeping Beauty و The Nutcracker، از آثار مرکزی رپرتوار باله‌اند."
+  },
+  {
+    "id": "schubert",
+    "name": "Franz Schubert",
+    "years": "1797–1828",
+    "period": "Classical / Romantic",
+    "country": "Austria",
+    "bio": "شوبرت آهنگ‌ساز اتریشی بود که در گذار از کلاسیک به رمانتیک قرار می‌گیرد و در هنر ترانه‌سازی آلمانی نقشی محوری دارد.",
+    "style": "ملودی غنایی، هارمونی گاه غیرمنتظره و پیوند شعر و موسیقی.",
+    "works": [
+      "Winterreise",
+      "Erlkönig",
+      "Symphony No. 8 'Unfinished'",
+      "String Quintet in C major",
+      "Impromptus"
+    ],
+    "fact": "شوبرت با وجود عمر کوتاه، صدها لید و آثار فراوانی در ژانرهای مختلف نوشت."
+  },
+  {
+    "id": "mendelssohn",
+    "name": "Felix Mendelssohn",
+    "years": "1809–1847",
+    "period": "Romantic",
+    "country": "Germany",
+    "bio": "مندلسون آهنگ‌ساز، پیانیست و رهبر ارکستر آلمانی بود که در احیای توجه به موسیقی باخ نیز نقشی مهم داشت.",
+    "style": "شفافیت کلاسیک در کنار رنگ‌آمیزی رمانتیک و ظرافت ارکسترال.",
+    "works": [
+      "A Midsummer Night's Dream",
+      "Violin Concerto in E minor",
+      "Songs Without Words",
+      "Italian Symphony"
+    ],
+    "fact": "اجرای پاسیون متی باخ به رهبری مندلسون در ۱۸۲۹ در بازشناسی گسترده‌تر موسیقی باخ مؤثر بود."
+  },
+  {
+    "id": "wagner",
+    "name": "Richard Wagner",
+    "years": "1813–1883",
+    "period": "Romantic",
+    "country": "Germany",
+    "bio": "واگنر آهنگ‌ساز و نظریه‌پرداز اپرای آلمانی بود که با ایده Gesamtkunstwerk و استفاده گسترده از لایت‌موتیف، بر موسیقی نمایشی اثر گذاشت.",
+    "style": "هارمونی کروماتیک، ارکستراسیون حجیم و شبکه‌ای از موتیف‌های مرتبط با شخصیت‌ها و ایده‌ها.",
+    "works": [
+      "The Ring Cycle",
+      "Tristan und Isolde",
+      "Lohengrin",
+      "Parsifal"
+    ],
+    "fact": "ساختمان جشنواره بایرویت با هدف اجرای آثار واگنر و تحت نظارت خود او ساخته شد."
+  },
+  {
+    "id": "rachmaninoff",
+    "name": "Sergei Rachmaninoff",
+    "years": "1873–1943",
+    "period": "Late Romantic",
+    "country": "Russia",
+    "bio": "راخمانینف آهنگ‌ساز، پیانیست و رهبر ارکستر روسی بود که زبان رمانتیک را تا قرن بیستم ادامه داد.",
+    "style": "ملودی‌های وسیع، هارمونی غنی، بافت پیانویی پرحجم و دامنه تکنیکی بالا.",
+    "works": [
+      "Piano Concerto No. 2",
+      "Piano Concerto No. 3",
+      "Rhapsody on a Theme of Paganini",
+      "Symphony No. 2",
+      "Vocalise"
+    ],
+    "fact": "راخمانینف پس از انقلاب روسیه بیشتر عمر خود را در تبعید و خارج از روسیه گذراند."
+  },
+  {
+    "id": "debussy",
+    "name": "Claude Debussy",
+    "years": "1862–1918",
+    "period": "Impressionism",
+    "country": "France",
+    "bio": "دبوسی با گسترش امکانات رنگ صوتی و هارمونی، مسیر تازه‌ای در موسیقی اروپایی گشود. برچسب امپرسیونیسم برای توصیف بخشی از موسیقی او رایج است، هرچند خود او با این نام‌گذاری راحت نبود.",
+    "style": "رنگ‌آمیزی صوتی، گام‌های مدال و تمام‌پرده، هارمونی سیال و فرم‌های آزادتر.",
+    "works": [
+      "Prélude à l'après-midi d'un faune",
+      "Clair de lune",
+      "La mer",
+      "Children's Corner",
+      "Pelléas et Mélisande"
+    ],
+    "fact": "دبوسی از نقاشی، شعر و هنرهای غیراروپایی، از جمله موسیقی گاملان جاوه، الهام گرفت."
+  },
+  {
+    "id": "ravel",
+    "name": "Maurice Ravel",
+    "years": "1875–1937",
+    "period": "Impressionism / Modern",
+    "country": "France",
+    "bio": "راول آهنگ‌ساز فرانسوی بود که به دقت ساختاری، مهارت ارکستراسیون و ظرافت رنگ صوتی شهرت دارد.",
+    "style": "شفافیت، دقت صوری، ریتم‌های رقصی و ارکستراسیون درخشان.",
+    "works": [
+      "Boléro",
+      "Daphnis et Chloé",
+      "Pavane pour une infante défunte",
+      "Piano Concerto in G major",
+      "Gaspard de la nuit"
+    ],
+    "fact": "راول در تنظیم ارکسترال آثار دیگران نیز مهارت داشت؛ تنظیم او از Pictures at an Exhibition بسیار مشهور است."
+  },
+  {
+    "id": "satie",
+    "name": "Erik Satie",
+    "years": "1866–1925",
+    "period": "Modern / Early 20th Century",
+    "country": "France",
+    "bio": "ساتـی آهنگ‌ساز فرانسوی بود که با زبان ساده، غیرمتعارف و گاه طنزآمیز خود بر موسیقی مدرن اثر گذاشت.",
+    "style": "بافت خلوت، تکرار، هارمونی نامتعارف و فاصله‌گیری از بیان رمانتیک پرشور.",
+    "works": [
+      "Gymnopédies",
+      "Gnossiennes",
+      "Parade",
+      "Vexations"
+    ],
+    "fact": "ساتـی برای بعضی قطعاتش عنوان‌ها و دستورهای اجرایی عجیب و شوخ‌طبعانه انتخاب می‌کرد."
+  },
+  {
+    "id": "stravinsky",
+    "name": "Igor Stravinsky",
+    "years": "1882–1971",
+    "period": "Modern",
+    "country": "Russia / France / USA",
+    "bio": "استراوینسکی از اثرگذارترین آهنگ‌سازان قرن بیستم بود و در طول زندگی هنری خود چندین دگرگونی سبکی مهم را تجربه کرد.",
+    "style": "ریتم‌های پیچیده، چندلایگی، نئوکلاسیسیسم و دگرگونی زبان آهنگ‌سازی در دوره‌های مختلف.",
+    "works": [
+      "The Rite of Spring",
+      "The Firebird",
+      "Petrushka",
+      "Pulcinella",
+      "Symphony of Psalms"
+    ],
+    "fact": "اجرای نخست The Rite of Spring در ۱۹۱۳ با واکنش‌های تند و جنجالی بخشی از تماشاگران روبه‌رو شد."
+  },
+  {
+    "id": "prokofiev",
+    "name": "Sergei Prokofiev",
+    "years": "1891–1953",
+    "period": "Modern",
+    "country": "Russia / Soviet Union",
+    "bio": "پروکفیف آهنگ‌ساز و پیانیست روس بود که در باله، سمفونی، کنسرتو و موسیقی فیلم فعالیت کرد.",
+    "style": "ریتم‌های پرتحرک، طنز، ملودی‌های روشن و هارمونی گاه تند و نامتعارف.",
+    "works": [
+      "Peter and the Wolf",
+      "Romeo and Juliet",
+      "Piano Concerto No. 3",
+      "Symphony No. 1 'Classical'"
+    ],
+    "fact": "Peter and the Wolf برای آشناکردن کودکان با سازهای ارکستر نوشته شد."
+  },
+  {
+    "id": "shostakovich",
+    "name": "Dmitri Shostakovich",
+    "years": "1906–1975",
+    "period": "Modern",
+    "country": "Russia / Soviet Union",
+    "bio": "شوستاکوویچ آهنگ‌ساز روسی-شوروی بود که در شرایط سیاسی دشوار، سمفونی‌ها و کوارتت‌هایی با لایه‌های پیچیده بیانی نوشت.",
+    "style": "تضاد، گروتسک، تنش، نقل‌قول موسیقایی و ترکیب بیان عمومی و شخصی.",
+    "works": [
+      "Symphony No. 5",
+      "Symphony No. 7 'Leningrad'",
+      "String Quartet No. 8",
+      "Jazz Suite No. 2"
+    ],
+    "fact": "او در طول زندگی بارها با فشار و انتقاد رسمی حکومت شوروی روبه‌رو شد."
+  },
+  {
+    "id": "bartok",
+    "name": "Béla Bartók",
+    "years": "1881–1945",
+    "period": "Modern",
+    "country": "Hungary",
+    "bio": "بارتوک آهنگ‌ساز و پژوهشگر موسیقی مجارستانی بود که موسیقی فولکلور را به‌طور نظام‌مند گردآوری و مطالعه کرد.",
+    "style": "ریتم‌های نامتقارن، الهام از موسیقی محلی، هارمونی مدرن و رنگ‌آمیزی سازها.",
+    "works": [
+      "Concerto for Orchestra",
+      "Music for Strings, Percussion and Celesta",
+      "Mikrokosmos",
+      "String Quartets"
+    ],
+    "fact": "بارتوک با ضبط و ثبت موسیقی روستایی، از پیشگامان مردم‌نگاری موسیقی به‌شمار می‌رود."
+  },
+  {
+    "id": "schoenberg",
+    "name": "Arnold Schoenberg",
+    "years": "1874–1951",
+    "period": "Modern",
+    "country": "Austria / USA",
+    "bio": "شونبرگ آهنگ‌ساز و نظریه‌پرداز اتریشی بود که در گذار از تونالیته به آتونالیته و سپس روش دوازده‌نغمه‌ای نقشی محوری داشت.",
+    "style": "آتونالیته، سازمان‌دهی دوازده‌نغمه‌ای و دگرگونی بنیادین در زبان هارمونیک.",
+    "works": [
+      "Verklärte Nacht",
+      "Pierrot Lunaire",
+      "Suite for Piano, Op. 25",
+      "A Survivor from Warsaw"
+    ],
+    "fact": "شونبرگ علاوه بر موسیقی، نقاشی می‌کرد و با هنرمندان گروه سوارکار آبی ارتباط داشت."
+  },
+  {
+    "id": "glass",
+    "name": "Philip Glass",
+    "years": "1937–",
+    "period": "Contemporary",
+    "country": "USA",
+    "bio": "فیلیپ گلس از چهره‌های مهم مینیمالیسم آمریکایی است. موسیقی او با الگوهای تکرارشونده و تغییرات تدریجی شناخته می‌شود.",
+    "style": "تکرار الگوهای کوتاه، پالس منظم و تغییرات کوچک اما انباشتی.",
+    "works": [
+      "Glassworks",
+      "Einstein on the Beach",
+      "Koyaanisqatsi",
+      "Violin Concerto No. 1"
+    ],
+    "fact": "گلس در کنار موسیقی کنسرتی، برای سینما و تئاتر نیز آثار فراوانی ساخته است."
+  },
+  {
+    "id": "part",
+    "name": "Arvo Pärt",
+    "years": "1935–",
+    "period": "Contemporary",
+    "country": "Estonia",
+    "bio": "آروو پرت آهنگ‌ساز استونیایی است که با شیوه‌ای مینیمال و زبانی بسیار خلوت و متمرکز شناخته می‌شود.",
+    "style": "روش tintinnabuli، بافت شفاف، سکوت و حرکت محدود اما دقیق صداها.",
+    "works": [
+      "Spiegel im Spiegel",
+      "Fratres",
+      "Tabula Rasa",
+      "Für Alina"
+    ],
+    "fact": "پرت پس از دوره‌ای سکوت و مطالعه موسیقی قدیم، زبان شخصی تازه‌ای را در دهه ۱۹۷۰ شکل داد."
+  },
+  {
+    "id": "richter",
+    "name": "Max Richter",
+    "years": "1966–",
+    "period": "Contemporary / Post-minimalism",
+    "country": "Germany / UK",
+    "bio": "مکس ریشتر آهنگ‌ساز معاصر آلمانی-بریتانیایی است که میان موسیقی کلاسیک، مینیمالیسم و موسیقی الکترونیک پیوند برقرار می‌کند.",
+    "style": "الگوهای تکراری، بافت ارکسترال و الکترونیک، و بیان سینمایی و تأملی.",
+    "works": [
+      "The Blue Notebooks",
+      "Sleep",
+      "Recomposed: Vivaldi – The Four Seasons",
+      "On the Nature of Daylight"
+    ],
+    "fact": "اثر Sleep پروژه‌ای حدوداً هشت‌ساعته است که با ایده شنیدن در وضعیت خواب و استراحت طراحی شده است."
+  },
+  {
+    "id": "adams",
+    "name": "John Adams",
+    "years": "1947–",
+    "period": "Contemporary",
+    "country": "USA",
+    "bio": "جان آدامز آهنگ‌ساز آمریکایی است که از مینیمالیسم آغاز کرد و به زبانی ارکسترال و اپرایی با دامنه بیانی گسترده رسید.",
+    "style": "پالس‌های تکراری، ریتم‌های پرانرژی و ترکیب مینیمالیسم با سنت ارکسترال.",
+    "works": [
+      "Short Ride in a Fast Machine",
+      "Nixon in China",
+      "Harmonielehre",
+      "The Chairman Dances"
+    ],
+    "fact": "اپرای Nixon in China از آثار شاخص اپرای معاصر آمریکایی است."
+  },
+  {
+    "id": "williams",
+    "name": "John Williams",
+    "years": "1932–",
+    "period": "Contemporary / Film Music",
+    "country": "USA",
+    "bio": "جان ویلیامز آهنگ‌ساز آمریکایی موسیقی فیلم است که تم‌های به‌یادماندنی و ارکستراسیون پرشکوه او با سینمای معاصر پیوند خورده است.",
+    "style": "تم‌های مشخص، ارکستراسیون متأثر از سنت رمانتیک و روایت‌گری موسیقایی.",
+    "works": [
+      "Star Wars Suite",
+      "Harry Potter and the Sorcerer's Stone",
+      "Schindler's List",
+      "Jaws",
+      "Jurassic Park"
+    ],
+    "fact": "ویلیامز بارها با ارکسترهای بزرگ و رهبران برجسته همکاری کرده و از چهره‌های مهم موسیقی فیلم است."
+  }
+]

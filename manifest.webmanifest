@@ -1,0 +1,17 @@
+{
+  "name": "The Classical Music Explorer",
+  "short_name": "Music Explorer",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#172b3b",
+  "description": "A journey through the world of classical music.",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
