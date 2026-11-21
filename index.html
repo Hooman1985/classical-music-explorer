@@ -2,29 +2,21 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#172b3b"><meta name="description" content="A journey through the world of classical music.">
+<meta name="theme-color" content="#27245d"><meta name="description" content="A journey through the world of classical music.">
 <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="assets/icon.svg">
 <link rel="stylesheet" href="styles.css"><title>The Classical Music Explorer</title>
 </head>
 <body>
-<div class="app-shell">
-<header class="topbar"><button class="brand" data-view="home"><span class="brand-mark">♫</span><span><b>THE CLASSICAL MUSIC EXPLORER</b><small>A JOURNEY THROUGH THE WORLD OF CLASSICAL MUSIC</small></span></button><button class="icon-btn" id="installBtn" hidden aria-label="Install app">＋</button></header>
-<main id="app">
-<section class="hero"><div class="hero-copy"><span class="eyebrow">YOUR PERSONAL MUSIC MUSEUM</span><h1>Listen closer.<br><em>Discover more.</em></h1><p>Meet the composers, explore the eras, and follow the stories hidden inside the music.</p><button class="primary" data-view="timeline">Explore the timeline <span>↗</span></button></div><div class="hero-art"><div class="orbit orbit-a"></div><div class="orbit orbit-b"></div><div class="note note-one">𝄞</div><div class="note note-two">♪</div><div class="hero-disc"></div><span class="art-caption">A WORLD OF SOUND</span></div></section>
-<section class="welcome-strip"><span class="spark">✳</span><div><b>Curiosity is your best instrument.</b><p>There is no right order. Follow what catches your ear.</p></div><span class="strip-end">EST. FOR THE CURIOUS</span></section>
-<section class="section-head"><div><span class="eyebrow">START EXPLORING</span><h2>Your music world</h2></div><span class="section-aside">SEVEN WAYS IN</span></section>
-<section class="feature-grid">
-<button class="feature-card periods-card" data-view="periods"><span class="feature-icon">◷</span><span class="card-kicker">HISTORY & IDEAS</span><b>Music Periods<br>& Styles</b><small>Travel across musical eras</small><span class="card-arrow">↗</span></button>
-<button class="feature-card composers-card" data-view="composers"><span class="feature-icon">♙</span><span class="card-kicker">THE PEOPLE BEHIND THE MUSIC</span><b>Meet the<br>Composers</b><small>Lives, ideas and masterpieces</small><span class="card-arrow">↗</span></button>
-<button class="feature-card timeline-card" data-view="timeline"><span class="feature-icon">⌁</span><span class="card-kicker">A MUSICAL MAP</span><b>Music<br>Timeline</b><small>See who lived when</small><span class="card-arrow">↗</span></button>
-<button class="feature-card detective-card" data-view="detective"><span class="feature-icon">✳</span><span class="card-kicker">PLAY & LEARN</span><b>Music<br>Detective</b><small>Test your musical memory</small><span class="card-arrow">↗</span></button>
-<button class="feature-card masterpieces-card" data-view="masterpieces"><span class="feature-icon">✧</span><span class="card-kicker">LISTENING GUIDE</span><b>Master-<br>pieces</b><small>Essential works to discover</small><span class="card-arrow">↗</span></button>
-<button class="feature-card beyond-card" data-view="beyond"><span class="feature-icon">∞</span><span class="card-kicker">BEYOND THE TRADITION</span><b>Beyond<br>Classical</b><small>Modern echoes and new paths</small><span class="card-arrow">↗</span></button>
-</section>
-<section class="bottom-feature"><div><span class="eyebrow">YOUR OWN LISTENING STORY</span><h2>My Music World</h2><p>Save discoveries, collect favourites and leave notes for your future self.</p></div><button class="secondary" data-view="myworld">Open my world ↗</button></section>
-<footer>THE CLASSICAL MUSIC EXPLORER <span>MADE FOR A CURIOUS EAR</span></footer>
-</main>
-<nav class="bottom-nav"><button class="active" data-view="home"><span>⌂</span>Home</button><button data-view="timeline"><span>⌁</span>Timeline</button><button data-view="composers"><span>♙</span>Composers</button><button data-view="detective"><span>✳</span>Detective</button><button data-view="myworld"><span>♡</span>My World</button></nav>
-</div>
+<div class="app">
+<header class="topbar">
+<a class="brand" href="#" data-view="home"><span class="brand-mark">𝄞</span><span><strong>The Classical<br>Music Explorer</strong><small>Discover · Learn · Enjoy</small></span></a>
+<nav class="desktop-nav" aria-label="Main navigation">
+<a class="active" href="#" data-view="home">⌂ <span>Home</span></a><a href="#" data-view="composers">♟ <span>Composers</span></a><a href="#" data-view="masterpieces">♫ <span>Masterpieces</span></a><a href="#" data-view="timeline">◷ <span>Timeline</span></a><a href="#" data-view="games">🎮 <span>Games</span></a><a href="#" data-view="beyond">★ <span>Beyond Classical</span></a><a class="nav-heart" href="#" data-view="myworld" aria-label="My favourites">♥</a>
+</nav><button class="mobile-menu" id="menuToggle" aria-label="Open menu">☰</button>
+</header>
+<main id="app"><div class="loading">Preparing your music world…</div></main>
+<nav class="mobile-nav" aria-label="Mobile navigation">
+<a class="selected" href="#" data-view="home"><span>⌂</span>Home</a><a href="#" data-view="composers"><span>♫</span>Explore</a><a href="#" data-view="games"><span>🎮</span>Games</a><a href="#" data-view="beyond"><span>★</span>Beyond</a><a href="#" data-view="myworld"><span>♥</span>My World</a>
+</nav></div>
 <script src="app.js"></script>
 </body></html>
